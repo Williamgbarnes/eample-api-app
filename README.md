@@ -14,4 +14,3 @@ Run this node.js example by run this command on your terminal:
 3. npm install
 4. node server.js
 ```
-# eample-api-app
